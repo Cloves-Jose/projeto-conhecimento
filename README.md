@@ -29,20 +29,20 @@
 
 <h4>Backend</h4>
 - [Node](https://nodejs.org/en/)</br>
-- [Bcrypt](https://www.npmjs.com/package/bcrypt)
-- [Body-parser](https://www.npmjs.com/package/body-parser)
-- [Consign](https://www.npmjs.com/package/consign)
-- [Express](https://www.npmjs.com/package/express)
-- [Cors](https://www.npmjs.com/package/cors)
-- [Knex](https://www.npmjs.com/package/knex)
-- [Postgresql](https://www.postgresql.org/)
-- [MongoDB](https://www.mongodb.com/cloud/atlas)
+- [Bcrypt](https://www.npmjs.com/package/bcrypt)</br>
+- [Body-parser](https://www.npmjs.com/package/body-parser)</br>
+- [Consign](https://www.npmjs.com/package/consign)</br>
+- [Express](https://www.npmjs.com/package/express)</br>
+- [Cors](https://www.npmjs.com/package/cors)</br>
+- [Knex](https://www.npmjs.com/package/knex)</br>
+- [Postgresql](https://www.postgresql.org/)</br>
+- [MongoDB](https://www.mongodb.com/cloud/atlas)</br>
 
 <h4>Frontend</h4>
-- [VueJs](https://vuejs.org/)
-- [Axios](https://www.npmjs.com/package/axios)
-- [BootstrapVue](https://bootstrap-vue.org/)
-- [Font Awesome](https://fontawesome.com/)
-- [Highlight.js](https://highlightjs.org/)
-- [liquor-tree](https://www.npmjs.com/package/liquor-tree)
+- [VueJs](https://vuejs.org/)</be>
+- [Axios](https://www.npmjs.com/package/axios)</br>
+- [BootstrapVue](https://bootstrap-vue.org/)</br>
+- [Font Awesome](https://fontawesome.com/)</br>
+- [Highlight.js](https://highlightjs.org/)</br>
+- [liquor-tree](https://www.npmjs.com/package/liquor-tree)</br>
 
