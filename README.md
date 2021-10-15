@@ -39,7 +39,7 @@
 - [MongoDB](https://www.mongodb.com/cloud/atlas)</br>
 
 <h4>Frontend</h4>
-- [VueJs](https://vuejs.org/)</be>
+- [VueJs](https://vuejs.org/)</br>
 - [Axios](https://www.npmjs.com/package/axios)</br>
 - [BootstrapVue](https://bootstrap-vue.org/)</br>
 - [Font Awesome](https://fontawesome.com/)</br>
