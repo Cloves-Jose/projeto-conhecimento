@@ -28,7 +28,7 @@
 <h2>Tecnologias</h2>
 
 <h4>Backend</h4>
-- [Node](https://nodejs.org/en/)
+- [Node](https://nodejs.org/en/)</br>
 - [Bcrypt](https://www.npmjs.com/package/bcrypt)
 - [Body-parser](https://www.npmjs.com/package/body-parser)
 - [Consign](https://www.npmjs.com/package/consign)
